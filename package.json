@@ -8,16 +8,16 @@
     "prebuild": "del-cli ./dist",
     "build": "eleventy"
   },
-  "author": "Dice-Sensei",
+  "author": "Linuxisgay",
   "private": "true",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dice-Sensei/spselit-eleventy.git"
+    "url": "git+https://github.com/Linuxisgay/Eleventy"
   },
   "bugs": {
-    "url": "https://github.com/Dice-Sensei/spselit-eleventy/issues"
+    "url": "https://github.com/Linuxisgay/Eleventy/issues"
   },
-  "homepage": "https://github.com/Dice-Sensei/spselit-eleventy#readme",
+  "homepage": "https://github.com/Linuxisgay/Eleventy",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "del-cli": "^6.0.0"
